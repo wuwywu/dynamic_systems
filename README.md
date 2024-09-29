@@ -1,0 +1,5 @@
+# dynamic_systems
+这个代码完成各类动态系统和复杂网络的代码
+
+主要包：
+nunmba
